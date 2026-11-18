@@ -1,19 +1,39 @@
 Módulo de gestión de costes para recetas, subrecetas, escandallos y control de costes mediante Excel y VBA.
 
+
 # Documentación visual
 
 ## REC001 · Ensalada César con pollo
 
-![REC001 - Captura 1](GD_REC001_01.png)
+### Ficha y configuración
+<p align="center">
+  <img src="GD_REC001_01.png" width="750" alt="Ficha REC001">
+</p>
 
-![REC001 - Captura 2](GD_REC001_02.png)
+### Ingredientes y escandallo
+<p align="center">
+  <img src="GD_REC001_02.png" width="750" alt="Ingredientes REC001">
+</p>
 
-![REC001 - Captura 3](GD_REC001_03.png)
+### Costes y márgenes
+<p align="center">
+  <img src="GD_REC001_03.png" width="750" alt="Costes y márgenes">
+</p>
 
-![REC001 - Captura 4](GD_REC001_04_DI.png)
+### Configuración y análisis de precios
+<p align="center">
+  <img src="GD_REC001_04_DI.png" width="750" alt="Análisis REC001">
+</p>
 
-![REC001 - Captura 5](GD_REC001_05_DI.png)
+<p align="center">
+  <img src="GD_REC001_05_DI.png" width="750" alt="Análisis REC001">
+</p>
+
+---
 
 ## SUB001 · Salsa César
 
-![SUB001 - Ficha de elaboración](GD_SUB001_01.png)
+### Ficha de elaboración
+<p align="center">
+  <img src="GD_SUB001_01.png" width="750" alt="Ficha SUB001">
+</p>
